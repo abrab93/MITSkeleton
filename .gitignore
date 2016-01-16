@@ -50,4 +50,8 @@
 /vendor/
 /bin/
 /composer.phar
-/nbproject/private/
+/nbproject/private
+/stylesheets
+/src
+/app
+/web
