@@ -28,6 +28,11 @@
 
 # Assets managed by Bower
 /web/assets/vendor/
+/web/assets/bower_components/
+
+# Assets managed by npm
+/web/assets/node_modules/
+/web/assets/.ide
 
 # PHPUnit
 /app/phpunit.xml

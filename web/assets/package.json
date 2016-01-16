@@ -1,0 +1,22 @@
+{
+  "name": "mitskeleton",
+  "version": "1.0.0",
+  "description": "Une application basée sur symfony à des fins tutorielles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/multiinfo/MITSkeleton.git"
+  },
+  "author": "MIT <mit@mit.co.ma>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/multiinfo/MITSkeleton/issues"
+  },
+  "homepage": "https://github.com/multiinfo/MITSkeleton#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}

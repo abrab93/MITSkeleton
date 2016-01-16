@@ -1,0 +1,21 @@
+{
+  "name": "mitskeleton",
+  "description": "Une application basée sur symfony à des fins tutorielles.",
+  "main": "index.js",
+  "authors": [
+    "MIT <mit@mit.co.ma>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/multiinfo/MITSkeleton",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
